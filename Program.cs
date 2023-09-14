@@ -3,8 +3,8 @@
 //-introduce game to the user
 
 Console.WriteLine("Hi there and welcome to the Color Mini-Game!\n");
-Console.WriteLine("Rules are simple: You will see a color block and than write down the color name.");
-Console.WriteLine("If you do it properly then you will win and if you don't ... you lose.\n");
+Console.WriteLine("The rules are simple: You see a color block and then write down the name of the color.");
+Console.WriteLine("If you get it right you win, if you don't ... you lose.\n");
 Console.WriteLine("Press enter to start the game");
 Console.ReadLine();
 Console.Clear();
